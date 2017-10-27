@@ -1,9 +1,10 @@
 [
 
+{romid:"小米6-MIUIV9-7.10.27",romurl:"http://pan.baidu.com/s/1nvfzFCX",manosurl:"1222,2017.10.27",romsize:"1003.3MB,人脸识别XP框架"};
+
+
 
 {romid:"小米6-MI6-修复公交银行卡补丁",romurl:"http://pan.baidu.com/s/1o8SM17s",manosurl:"1215,2017.10.24",romsize:"206KB,修复补丁不用双清刷入"};
-
-
 {romid:"小米6-MIUIV9-7.10.20",romurl:"https://pan.baidu.com/s/1dFvoAQl",manosurl:"1215,2017.10.20",romsize:"992.1MB,支持圆角显示"};
 {romid:"小米6-MIUIV9-7.10.15",romurl:"https://pan.baidu.com/s/1i5cjrvB",manosurl:"1198,2017.10.15",romsize:"989.9MB,修复XP框架ROOT双清不丢失"};
 {romid:"小米6-MIUIV8-V8.5.5.0",romurl:"http://pan.baidu.com/s/1mhLNxUw",manosurl:"1186,2017.09.29",romsize:"957MB,最新稳定版"};
