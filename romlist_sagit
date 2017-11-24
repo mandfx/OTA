@@ -1,9 +1,10 @@
 [
 
+
+{romid:"小米6-MIUIV9-7.11.24",romurl:"https://pan.baidu.com/s/1jIP824A",manosurl:"1289,2017.11.24",romsize:"1020.9MB,小爱同学"};
+
+
 {romid:"小米6-MIUIV9-7.11.17",romurl:"https://pan.baidu.com/s/1c2hQrk",manosurl:"1265,2017.11.17",romsize:"1017.1MB,指纹振动开关"};
-
-
-
 {romid:"小米6-MIUIV9-稳定版",romurl:"https://pan.baidu.com/s/1slFP3Vf",manosurl:"1229,2017.11.01",romsize:"1023.6MB,MIUIV9首个稳定版"};
 {romid:"小米6-MIUIV9-7.10.27",romurl:"http://pan.baidu.com/s/1nvfzFCX",manosurl:"1222,2017.10.27",romsize:"1003.3MB,人脸识别XP框架"};
 {romid:"小米6-MI6-修复公交银行卡补丁",romurl:"http://pan.baidu.com/s/1o8SM17s",manosurl:"1215,2017.10.24",romsize:"206KB,修复补丁不用双清刷入"};
