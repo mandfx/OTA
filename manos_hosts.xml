@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manos>
+	<!-- 	NOTICE config -->
+	<string name="notice">寒冬已降临，愿君保重贵体，多加衣物，防寒保暖，锻炼经常，合理饮食，切勿动气，心情愉悦，开开心心，快快乐乐，幸幸福福，健健康康过冬！</string>
 	<!-- 	Hosts config -->
 	<string name="hosts">https://raw.githubusercontent.com/mandfx/Mi-Purify/master/app/src/main/assets/hosts_foreign</string>
 	<string name="hosts_miui">https://raw.githubusercontent.com/mandfx/OTA/master/hosts.miui</string>
-	<string name="notice">https://raw.githubusercontent.com/mandfx/OTA/manos/notice</string>
 	<string name="manosp_path">http://www.manosp.com/archives/</string>
 	<string name="ota_path">https://raw.githubusercontent.com/mandfx/OTA/manos/romlist_</string>
 </manos>
