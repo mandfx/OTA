@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manos>
+	<!-- 	Hosts config -->
+	<string name="hosts">https://raw.githubusercontent.com/mandfx/Mi-Purify/master/app/src/main/assets/hosts_foreign</string>
+	<string name="hosts_miui">https://raw.githubusercontent.com/mandfx/OTA/master/hosts.miui</string>
+	<string name="notice">https://raw.githubusercontent.com/mandfx/OTA/manos/notice</string>
+	<string name="manosp_path">http://www.manosp.com/archives/</string>
+	<string name="ota_path">https://raw.githubusercontent.com/mandfx/OTA/manos/romlist_</string>
+</manos>
