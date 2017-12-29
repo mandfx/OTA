@@ -1,8 +1,9 @@
 {
     "name": "公告",
     "title": "推荐",
-    "url": "http://www.manosp.com",
-    "isCopy": false,
+    "url": "com.eg.android.AlipyGphone,com.eg.android.AlipyGphone.AlipayLogin",
+    "isCopy": true,
+	"copyco": "新年快乐",
     "data": [
         {
             "name": "2018新年即将来临,提前祝大家新年快乐",
