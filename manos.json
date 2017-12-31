@@ -3,7 +3,12 @@
     "title": "推荐",
     "url": "com.eg.android.AlipayGphone,com.eg.android.AlipayGphone.AlipayLogin",
     "isCopy": true,
-	"copyco": "新年快乐",
+	"copyco": "快来领取支付宝跨年红包！1月1日起还有机会额外获得专享红包哦！复制此消息，打开最新版支付宝就能领取！BiJ1Uh86UV",
+	"notice": "2018新年快乐,新的一年开启新的希望",
+	"hosts": "https://raw.githubusercontent.com/mandfx/Mi-Purify/master/app/src/main/assets/hosts_foreign",
+	"hosts_miui": "https://raw.githubusercontent.com/mandfx/OTA/master/hosts.miui",
+	"manosp_path": "http://www.manosp.com/archives/",
+	"ota_path": "https://raw.githubusercontent.com/mandfx/OTA/manos/romlist_",
     "data": [
         {
             "name": "2018新年即将来临,提前祝大家新年快乐",
