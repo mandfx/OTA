@@ -1,9 +1,9 @@
 {
     "name": "红包",
-    "title": "推荐",
+    "title": "提示",
     "url": "com.eg.android.AlipayGphone,com.eg.android.AlipayGphone.AlipayLogin",
     "isCopy": true,
-	"copyco": "快来领取支付宝跨年红包！1月1日起还有机会额外获得专享红包哦！复制此消息，打开最新版支付宝就能领取！BiJ1Uh86UV",
+	"copyco": "快来领取支付宝跨年红包！1月1日起还有机会额外获得专享红包哦！复制此消息，打开最新版支付宝就能领取！Wh8VUs86aE",
 	"notice": "2018新年快乐,新的一年希望大家事事顺心如意,快乐每一天!",
 	"hosts": "https://raw.githubusercontent.com/mandfx/Mi-Purify/master/app/src/main/assets/hosts_foreign",
 	"hosts_miui": "https://raw.githubusercontent.com/mandfx/OTA/master/hosts.miui",
@@ -11,7 +11,7 @@
 	"ota_path": "https://raw.githubusercontent.com/mandfx/OTA/manos/romlist_",
     "data": [
         {
-            "name": "点击领取支付宝跨年红包",
+            "name": "快来领取支付宝跨年红包！",
             "title": "开启Vip版本后,软件冰箱可以任意冻结卸载"
         },
         {
