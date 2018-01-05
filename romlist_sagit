@@ -1,21 +1,15 @@
 [
 
 
-{romid:"小米6-MIUIV9-7.12.15",romurl:"https://pan.baidu.com/s/1pLqT9Sf",manosurl:"1347,2017.12.15",romsize:"1025MB,亮度控制,Build编辑器"};
+{romid:"小米6-MIUIV9-安卓8.0体验版",romurl:"https://pan.baidu.com/s/1qYOcLIk",manosurl:"1374,2018.01.05",romsize:"1.08GB,需格式Data刷入"};
 
+{romid:"小米6-MIUIV9-7.12.15",romurl:"https://pan.baidu.com/s/1pLqT9Sf",manosurl:"1347,2017.12.15",romsize:"1025MB,亮度控制,Build编辑器"};
 {romid:"小米6-MIUIV9-稳定版",romurl:"https://pan.baidu.com/s/1i4DPO5f",manosurl:"1317,2017.12.08",romsize:"1024MB,9.6最新稳定版"};
 {romid:"小米6-MIUIV9-7.12.01",romurl:"https://pan.baidu.com/s/1i5QWROT",manosurl:"1307,2017.12.01",romsize:"1024MB,相机修复"};
 {romid:"小米6-MIUIV9-7.11.24",romurl:"https://pan.baidu.com/s/1jIP824A",manosurl:"1289,2017.11.24",romsize:"1020.9MB,小爱同学"};
 {romid:"小米6-MIUIV9-7.11.17",romurl:"https://pan.baidu.com/s/1c2hQrk",manosurl:"1265,2017.11.17",romsize:"1017.1MB,指纹振动开关"};
 {romid:"小米6-MIUIV9-稳定版",romurl:"https://pan.baidu.com/s/1slFP3Vf",manosurl:"1229,2017.11.01",romsize:"1023.6MB,MIUIV9首个稳定版"};
-{romid:"小米6-MIUIV9-7.10.27",romurl:"http://pan.baidu.com/s/1nvfzFCX",manosurl:"1222,2017.10.27",romsize:"1003.3MB,人脸识别XP框架"};
-{romid:"小米6-MI6-修复公交银行卡补丁",romurl:"http://pan.baidu.com/s/1o8SM17s",manosurl:"1215,2017.10.24",romsize:"206KB,修复补丁不用双清刷入"};
-{romid:"小米6-MIUIV9-7.10.20",romurl:"https://pan.baidu.com/s/1dFvoAQl",manosurl:"1215,2017.10.20",romsize:"992.1MB,支持圆角显示"};
-{romid:"小米6-MIUIV9-7.10.15",romurl:"https://pan.baidu.com/s/1i5cjrvB",manosurl:"1198,2017.10.15",romsize:"989.9MB,修复XP框架ROOT双清不丢失"};
-{romid:"小米6-MIUIV8-V8.5.5.0",romurl:"http://pan.baidu.com/s/1mhLNxUw",manosurl:"1186,2017.09.29",romsize:"957MB,最新稳定版"};
-{romid:"小米6-MIUIV9-7.9.21",romurl:"http://pan.baidu.com/s/1pL7JP1p",manosurl:"1167,2017.09.21",romsize:"996MB,人脸解锁"};
-{romid:"小米6-MIUIV9-7.9.15",romurl:"http://pan.baidu.com/s/1c1X8peK",manosurl:"1163,2017.09.15",romsize:"1022MB,MIUIV9-348周"};
-{romid:"小米6-MIUIV9-7.8.31",romurl:"http://pan.baidu.com/s/1qYlwiG8",manosurl:"1135,2017.09.01",romsize:"971MB,MIUIV9-346周"}
+{romid:"小米6-MIUIV9-7.10.27",romurl:"http://pan.baidu.com/s/1nvfzFCX",manosurl:"1222,2017.10.27",romsize:"1003.3MB,人脸识别XP框架"}
 
 
 ]
