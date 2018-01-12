@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manos>
+	<!-- MD5对比主要检验ROM刷机包的完整性,查看是否下载过程中损坏导致刷机失败  -->
+	<!-- 电脑版MD5校验工具下载:http://url.cn/5o6BqCF 内含Recovery刷机工具合集 -->	
+	<!-- 手机版请使用炫设置-一键刷机功能长按压缩包查看,然后对比我发布的MD5值  -->	
+	
+	<!-- 一般对比下MD5头尾就行  卡刷ROM包的名字  -->  <!--  卡刷ROM包的MD5值  -->
+	<string name="miui_HM5Plus_8.1.11_7.1-A8112.zip">BFF7859637E21872E04274A5C3ADF464</string>
+	<string name="miui_HMNote2_8.1.11_5.0-8112.zip">B58E62CD7EACDFE272F1277F41509FAD</string>
+	<string name="miui_HMNote3_8.1.11_5.0-8112.zip">8F3659B4BF6F330C5C2C875BCB4D4256</string>
+	<string name="miui_HMNote4X_8.1.11_7.0-A8112.zip">53D4974B5BC746BDC2CC40894C37A529</string>
+	<string name="miuiV9_乐视2_8.1.11_6.0-8112.zip">D1AEEBB86D49C09C15F44E8C9F9E2FA7</string>
+  
+
+</manos>
