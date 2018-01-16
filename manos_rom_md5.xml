@@ -4,7 +4,9 @@
 	<!-- 电脑版MD5校验工具下载:http://url.cn/5o6BqCF 内含Recovery刷机工具合集 -->	
 	<!-- 手机版请使用炫设置-一键刷机功能长按压缩包查看,然后对比我发布的MD5值  -->	
 	
+	<!--      如果当前ROM包还没有MD5值请耐心等待,最迟晚上一定会更新MD5值      -->
 	<!-- 一般对比下MD5头尾就行  卡刷ROM包的名字  -->  <!--  卡刷ROM包的MD5值  -->
+	<string name="miui_MI6_V9.2.3.0.NCACNEK_7.1-A8116.zip">C0A17AED276A011F71E5DDF0AF9F679A</string>
 	<string name="miui_HM5Plus_8.1.11_7.1-A8112.zip">BFF7859637E21872E04274A5C3ADF464</string>
 	<string name="miui_HMNote2_8.1.11_5.0-8112.zip">B58E62CD7EACDFE272F1277F41509FAD</string>
 	<string name="miui_HMNote3_8.1.11_5.0-8112.zip">8F3659B4BF6F330C5C2C875BCB4D4256</string>
