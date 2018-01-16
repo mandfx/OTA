@@ -1,6 +1,7 @@
 {
     "name": "红包",
     "title": "提示",
+	"alipay": "https://qr.alipay.com/c1x09106cnsxrep1yw0lkba",
     "url": "com.eg.android.AlipayGphone,com.eg.android.AlipayGphone.AlipayLogin",
     "isCopy": true,
 	"copyco": "快来领取支付宝跨年红包！1月1日起还有机会额外获得专享红包哦！复制此消息，打开最新版支付宝就能领取！Wh8VUs86aE",
