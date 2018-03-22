@@ -5,7 +5,7 @@
     "url": "com.eg.android.AlipayGphone,com.eg.android.AlipayGphone.AlipayLogin",
     "isCopy": true,
 	"copyco": "快来领取支付宝跨年红包！1月1日起还有机会额外获得专享红包哦！复制此消息，打开最新版支付宝就能领取！Wh8VUs86aE",
-	"notice": "金鸡辞旧岁，旺狗迎新春，祝您及家人：新春快乐，财源滚滚，平安健康，吉祥如意！",
+	"notice": "点击下方官网下载最新ROM卡刷包,点击QQ群加入机油大家庭",
 	"hosts": "https://raw.githubusercontent.com/mandfx/Mi-Purify/master/app/src/main/assets/hosts_foreign",
 	"hosts_miui": "https://raw.githubusercontent.com/mandfx/OTA/master/hosts.miui",
 	"manosp_path": "http://www.manosp.com/archives/",
@@ -13,15 +13,15 @@
     "data": [
         {
             "name": "快来领取支付宝跨年红包！",
-            "title": "即日起至大年十五开通VIP享受6折优惠"
-        },
-		{
-            "name": "升级春节版本支持快捷支付和扫一扫",
             "title": "Build.Prop编辑器可以修改机型等操作"
         },
         {
             "name": "开启Vip版本后,软件冰箱可以任意冻结卸载",
-            "title": "最新版本淘宝与Xposed框架兼容不好会导致崩溃哦"
+            "title": "现在咨询购买VIP只需要39元,即可享受VIP服务"
+        },
+		{
+            "name": "安装Xposed框架请一定仔细阅读提示",
+            "title": "最新版本淘宝与Xp框架兼容不好会导致崩溃哦"
         },
         {
             "name": "感谢大家一路支持,你们的支持是我不断进步的动力",
