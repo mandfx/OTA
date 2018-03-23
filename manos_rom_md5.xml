@@ -7,6 +7,11 @@
 	<!--      如果当前ROM包还没有MD5值请耐心等待,最迟晚上一定会更新MD5值      -->
 	<!-- 一般对比下MD5头尾就行  卡刷ROM包的名字  -->  <!--  卡刷ROM包的MD5值  -->
 	
+	<string name="miuiV9_乐视2_8.3.22_6.0-B8323.zip">076AF13D44F50C5A8CC8C04A40959902</string>
+	<string name="miui_MI6_8.3.22_8.0-C8323.zip">BEB156C7DDCC982FBAA3DF306ED9B24B</string>
+	<string name="miui_HMNote4X_8.3.22_7.0-8323.zip">BE30B7D12016FC3EB789515A79E795AE</string>
+	<string name="miui_HM5Plus_8.3.22_7.1_B8323.zip">7EA27E4DC62D7F1B2A44A091CA13FFD4</string>
+	<!-- 2018.03.23 -->	
 	<string name="MIUI8-乐视Pro3_X720-8322.zip">7E8D2DBD90D00FF942C2CE5ADE7B1B46</string>
 	<string name="MIUI8-乐视max2_X820_8322.zip">B5C9D4053A64DB301B1E22F7ABA9BF0E</string>
 	<!-- 2018.03.22 -->
