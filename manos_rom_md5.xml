@@ -7,6 +7,10 @@
 	<!--      如果当前ROM包还没有MD5值请耐心等待,最迟晚上一定会更新MD5值      -->
 	<!-- 一般对比下MD5头尾就行  卡刷ROM包的名字  -->  <!--  卡刷ROM包的MD5值  -->
 	
+	<string name="miui_MINote3_V9.5.4.0.NCHCNFA_7.1-8326.zip">72D9873F0896CBE7A575D71F4B1B8CDE</string>
+	<string name="miui_MI5X_8.3.26_7.1-8326.zip">93FAC1D70662F950FB8AD7C388AD6C12</string>
+	<!-- 2018.03.26 -->	
+	<string name="miui_MIMAX2_8.3.22_7.1-8323">01129A2D48CEA7B917990B760EAA79A8</string>
 	<string name="miuiV9_乐视2_8.3.22_6.0-B8323.zip">076AF13D44F50C5A8CC8C04A40959902</string>
 	<string name="miui_MI6_8.3.22_8.0-C8323.zip">BEB156C7DDCC982FBAA3DF306ED9B24B</string>
 	<string name="miui_HMNote4X_8.3.22_7.0-8323.zip">BE30B7D12016FC3EB789515A79E795AE</string>
