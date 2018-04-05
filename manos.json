@@ -1,6 +1,6 @@
 {
-    "name": "红包",
-    "title": "限时",
+    "name": "点击",
+    "title": "红包",
 	"alipay": "https://qr.alipay.com/c1x09106cnsxrep1yw0lkba",
     "url": "com.eg.android.AlipayGphone,com.eg.android.AlipayGphone.AlipayLogin",
     "isCopy": true,
@@ -13,16 +13,12 @@
 	"ota_path": "https://raw.githubusercontent.com/mandfx/OTA/manos/romlist_",
     "data": [
         {
-            "name": "快来领取支付宝跨年红包！",
-            "title": "Build.Prop编辑器可以修改机型等操作"
-        },
-        {
-            "name": "开启Vip版本后,软件冰箱可以任意冻结卸载",
-            "title": ""
+            "name": "Build.Prop编辑器可以修改机型等操作",
+            "title": "开启Vip版本后,软件冰箱可以任意冻结卸载"
         },
 		{
             "name": "安装Xposed框架请一定仔细阅读提示",
-            "title": "最新版本淘宝与Xp框架兼容不好会导致崩溃哦"
+            "title": "Xposed可能会造成软件不兼容,崩溃闪退等"
         },
         {
             "name": "感谢大家一路支持,你们的支持是我不断进步的动力",
