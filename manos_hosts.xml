@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manos>
 	<!-- 	NOTICE config -->
-	<string name="notice">金鸡辞旧岁，旺狗迎新春，祝您及家人：新春快乐，财源滚滚，平安健康，吉祥如意！</string>
+	<string name="notice">点击下方官网下载最新ROM卡刷包,点击QQ群加入机油大家庭</string>
 	<!-- 	Hosts config -->
 	<string name="hosts">https://raw.githubusercontent.com/mandfx/Mi-Purify/master/app/src/main/assets/hosts_foreign</string>
 	<string name="hosts_miui">https://raw.githubusercontent.com/mandfx/OTA/master/hosts.miui</string>
