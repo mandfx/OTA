@@ -1,12 +1,10 @@
 [
 
+{romid:"小米6-MIUIV10-8.7.19",romurl:"https://pan.baidu.com/s/1iCv8NaNtzH98K-MPdiWJqg",manosurl:"2082,2018.07.20",romsize:"1.22GB,电池相关功能恢复"};
 
 {romid:"小米6-MIUIV10-8.7.13",romurl:"https://pan.baidu.com/s/1JeyruqfY1Epa953ojwsGPQ",manosurl:"2059,2018.07.13",romsize:"1.22GB,8.7.12开发版"};
-
 {romid:"小米6-MIUIV10-8.7.10",romurl:"https://pan.baidu.com/s/1nQ38ku_DDYd6TOWMofVdfA",manosurl:"2040,2018.07.10",romsize:"1.23GB,电池相关功能|游戏修复"};
 {romid:"小米6-MIUIV10-8.7.5",romurl:"https://pan.baidu.com/s/1uaFuQEMFOOztfW1lhnvKuA",manosurl:"2019,2018.07.05",romsize:"1.23GB,支持图标隐藏"};
-{romid:"小米6-MIUIV10-8.6.25",romurl:"https://pan.baidu.com/s/18UZ37o2v5c1EYmmDsBOlSw",manosurl:"1989,2018.06.25",romsize:"1.2GB,钛备份修复"};
-{romid:"小米6-MIUIV10-8.6.19",romurl:"https://pan.baidu.com/s/1prpdG6HzsOWqgZLcYwJfaQ",manosurl:"1948,2018.06.19",romsize:"1.2GB,MIUIV10公测正式版"};
 {romid:"小米6-MIUIV9.6.2.0-稳定版",romurl:"https://pan.baidu.com/s/1xBHfCtIjQiCFsYE0plK7Xg",manosurl:"1924,2018.06.14",romsize:"1.17GB,9.6稳定版支持人脸"}
 
 ]
