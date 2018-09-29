@@ -1,11 +1,11 @@
 {
     "name": "点击",
     "title": "红包",
-	"alipay": "https://qr.alipay.com/c1x09106cnsxrep1yw0lkba",
+	"alipay": "https://tblk.me/iEKCo",
     "url": "com.eg.android.AlipayGphone,com.eg.android.AlipayGphone.AlipayLogin",
     "isCopy": false,
 	"Security": false,
-	"copyco": "快来领取支付宝跨年红包！1月1日起还有机会额外获得专享红包哦！复制此消息，打开最新版支付宝就能领取！Wh8VUs86aE",
+	"copyco": "支付宝红包再升级，红包种类更多，金额更大！人人可领，天天可领！长按复制此消息，打开支付宝领红包！1EwFch869Z",
 	"notice": "提前祝大家中秋国庆快乐,祝愿佳节多好运,月圆人圆事事圆!",
 	"home_notice": "提前祝大家中秋国庆快乐,阖家幸福团团圆圆!",
 	"hosts": "https://raw.githubusercontent.com/mandfx/Mi-Purify/master/app/src/main/assets/hosts_foreign",
