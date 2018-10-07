@@ -1,10 +1,10 @@
 [
 
-{romid:"小米5X-MIUIV10-8.9.30",romurl:"https://pan.baidu.com/s/1n-vp1Z2Vq2QFaXMe6dtcvQ",manosurl:"2488,2018.09.30",romsize:"1.1GB,国际版通知样式"};
 
+{romid:"小米5X-MIUIV10-8.10.7",romurl:"https://pan.baidu.com/s/1ra9llj7qfSX9Iq-Yth_Kqw",manosurl:"2504,2018.10.07",romsize:"1.1GB,下拉布局|国际版通知"};
+
+{romid:"小米5X-MIUIV10-8.9.30",romurl:"https://pan.baidu.com/s/1n-vp1Z2Vq2QFaXMe6dtcvQ",manosurl:"2488,2018.09.30",romsize:"1.1GB,国际版通知样式"};
 {romid:"小米5X-MIUIV10-8.9.20",romurl:"https://pan.baidu.com/s/1v5rzQqql3Hr7GOy3YKRoPg",manosurl:"2413,2018.09.21",romsize:"1.1GB,导航调节|按键手势"};
-{romid:"小米5X-MIUIV10-8.9.13",romurl:"https://pan.baidu.com/s/1PqiujlzqOqvCJzTGnmiiCw",manosurl:"2376,2018.09.13",romsize:"1.1GB,全面屏手势"};
-{romid:"小米5X-MIUIV10-8.9.6",romurl:"https://pan.baidu.com/s/18ooWSxwqxLE9AWBSUeLxlQ",manosurl:"2334,2018.09.07",romsize:"1.07GB,内存清理优化"};
 {romid:"小米5X-MIUIV9.6.1.0稳定版",romurl:"https://pan.baidu.com/s/1y0wfbP5vXMfpGho23bbu7A",manosurl:"1968,2018.06.20",romsize:"1.03GB,MIUIV9.6稳定版"}
 
 ]
