@@ -1,11 +1,9 @@
 [
 
+{romid:"小米8-MIUIV10-8.11.6",romurl:"https://pan.baidu.com/s/1MlqkwwUMYIm0lO4239oysw",manosurl:"2701,2018.11.06",romsize:"1.36GB,充电数字电量"};
 
 {romid:"小米8-MIUIV10.0.8.0-稳定版",romurl:"https://pan.baidu.com/s/17lWIsEQPygmzwcTzupjWLw",manosurl:"2653,2018.10.31",romsize:"1.39GB,MIUIV10稳定版"};
-
 {romid:"小米8-MIUIV10-8.10.28",romurl:"https://pan.baidu.com/s/16j_zgMs5WQRTw1YiJ6YLPw",manosurl:"2637,2018.10.28",romsize:"1.36GB,ROOT切换|通知显示"};
-{romid:"小米8-MIUIV10.0.6.0-稳定版",romurl:"https://pan.baidu.com/s/1lYHSuhjsh59rztySFhhhdQ",manosurl:"2459,2018.09.26",romsize:"1.37GB,MIUIV10稳定版"};
-{romid:"小米8-MIUIV10.0.5.0-稳定版",romurl:"https://pan.baidu.com/s/1or38axGSBNQFx7xF_x0eHA",manosurl:"2374,2018.09.13",romsize:"1.39GB,MIUIV10稳定版"};
-{romid:"小米8-MIUIV10-8.8.31",romurl:"https://pan.baidu.com/s/1YrYcVezkZSf_KPRICVyAjQ",manosurl:"2366,2018.09.09",romsize:"1.37GB,终结修复版|熄屏农历"}
+{romid:"小米8-MIUIV10.0.6.0-稳定版",romurl:"https://pan.baidu.com/s/1lYHSuhjsh59rztySFhhhdQ",manosurl:"2459,2018.09.26",romsize:"1.37GB,MIUIV10稳定版"}
 
 ]
