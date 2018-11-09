@@ -1,10 +1,9 @@
 [
 
-{romid:"小米Mix2-MIUIV10-8.11.2",romurl:"https://pan.baidu.com/s/1T192gq6qv5gbOaAc_1N7qA",manosurl:"2667,2018.11.02",romsize:"1.3GB,锁屏下拉开关"};
+{romid:"小米Mix2-MIUIV10-8.11.8",romurl:"https://pan.baidu.com/s/1yMDahBJ_88AOo8KVPKfb1A",manosurl:"2722,2018.11.09",romsize:"1.3GB,充电数字电量"};
 
+{romid:"小米Mix2-MIUIV10-8.11.2",romurl:"https://pan.baidu.com/s/1T192gq6qv5gbOaAc_1N7qA",manosurl:"2667,2018.11.02",romsize:"1.3GB,锁屏下拉开关"};
 {romid:"小米Mix2-MIUIV10-8.10.25",romurl:"https://pan.baidu.com/s/1AuLKE1jVEUUUcXJIje9_dw",manosurl:"2612,2018.10.26",romsize:"1.3GB,支持切换Magisk授权"};
-{romid:"小米Mix2-MIUIV10-8.10.11",romurl:"https://pan.baidu.com/s/18idIR9wxqTR959_RuRmZRQ",manosurl:"2530,2018.10.12",romsize:"1.35GB,下拉|通知SOS"};
-{romid:"小米Mix2-MIUIV10-8.10.7",romurl:"https://pan.baidu.com/s/1V7xlHP6VhDtxg8YYjHlkeA",manosurl:"2508,2018.10.07",romsize:"1.33GB,下拉布局|国际版通知"};
 {romid:"小米Mix2-MIUIV10.0.1.0-稳定版",romurl:"https://pan.baidu.com/s/1QM5X5WEWNmvIaSRHUeYLPA",manosurl:"2289,2018.08.30",romsize:"1.27GB,MIUIV10首个稳定版"}
 
 
