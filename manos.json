@@ -4,6 +4,7 @@
 	"alipay": "com.eg.android.AlipayGphone,com.eg.android.AlipayGphone.AlipayLogin",
     "url": "com.eg.android.AlipayGphone,com.eg.android.AlipayGphone.AlipayLogin",
     "isCopy": false,
+	"isMoney": true,
 	"Security": false,
 	"copyco": "支付宝红包再升级，红包种类更多，金额更大！人人可领，天天可领！长按复制此消息，打开支付宝领红包！逸迎克3宇凡Vx慧翰静迈迈",
 	"notice": "开通Vip版本后,进入软件冰箱开启纯净模式可去除推广软件",
