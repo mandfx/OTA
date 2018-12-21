@@ -1,10 +1,9 @@
 [
 
-{romid:"小米6-MIUIV10-8.12.13",romurl:"https://pan.baidu.com/s/1ezR23Y6k1sDF5hUC7kq0oQ",manosurl:"3001,2018.12.14",romsize:"1.27GB,新增下拉天气"};
+{romid:"小米6-MIUIV10-8.12.20",romurl:"https://pan.baidu.com/s/16QSyj1YDNKn1h4L_Xh8nUA",manosurl:"3038,2018.12.21",romsize:"1.28GB,新增抬起唤醒"};
 
+{romid:"小米6-MIUIV10-8.12.13",romurl:"https://pan.baidu.com/s/1ezR23Y6k1sDF5hUC7kq0oQ",manosurl:"3001,2018.12.14",romsize:"1.27GB,新增下拉天气"};
 {romid:"小米6-MIUIV10-8.12.6",romurl:"https://pan.baidu.com/s/1hCSdt5qmOrZTXZYtOF1HYA",manosurl:"2958,2018.12.07",romsize:"1.25GB,秒截屏|Magisk"};
-{romid:"小米6-MIUIV10-8.11.29",romurl:"https://pan.baidu.com/s/1VNK3d_Gmz74rZ6UtLM2J6Q",manosurl:"2856,2018.11.30",romsize:"1.25GB,手势Magisk|XP修复"};
-{romid:"小米6-MIUIV10-8.11.22",romurl:"https://pan.baidu.com/s/1-QkreoI2zqUVp58tDdeigA",manosurl:"2805,2018.11.23",romsize:"1.24GB,显秒IOS|XP冰箱"};
 {romid:"小米6-MIUIV10.0.1.0-稳定版",romurl:"https://pan.baidu.com/s/1yuFLDJsfP_UFff1PtYIR_A",manosurl:"2282,2018.08.28",romsize:"1.22GB,MIUIV10首个稳定版"}
 
 ]
