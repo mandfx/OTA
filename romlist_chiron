@@ -1,11 +1,13 @@
 [
 
-{romid:"小米Mix2-MIUIV10-9.1.4",romurl:"https://pan.baidu.com/s/1SkPb8MaMwJSXwwXZ5PPTqQ",manosurl:"3114,2019.01.04",romsize:"1.31GB,2019年第一版"};
 
+{romid:"小米Mix2-MIUIV10-9.1.10",romurl:"https://pan.baidu.com/s/1X-wBjw2PUENtaOSYFDV0LQ",manosurl:"3154,2019.01.11",romsize:"1.31GB,主题商店改版"};
+
+{romid:"小米Mix2-MIUIV10.2.2.0-稳定版",romurl:"https://pan.baidu.com/s/1N40Tniugb_SPPTUZXtLy4Q",manosurl:"3142,2019.01.10",romsize:"1.28GB,MIUIV10.2稳定版"};
+{romid:"小米Mix2-MIUIV10-9.1.4",romurl:"https://pan.baidu.com/s/1SkPb8MaMwJSXwwXZ5PPTqQ",manosurl:"3114,2019.01.04",romsize:"1.31GB,2019年第一版"};
 {romid:"小米Mix2-MIUIV10-8.12.27",romurl:"https://pan.baidu.com/s/1YDF5TOpw7fW3Ki7pmAvzWg",manosurl:"3078,2018.12.28",romsize:"1.31GB,抬起唤醒|天气完善"};
-{romid:"小米Mix2-MIUIV10-8.12.20",romurl:"https://pan.baidu.com/s/1S3JjWy9oPv8c1cnvd-0yUg",manosurl:"3036,2018.12.21",romsize:"1.31GB,新增抬起唤醒"};
-{romid:"小米Mix2-MIUIV10-8.12.13",romurl:"https://pan.baidu.com/s/15otzXxyroDqnVo_gdQileA",manosurl:"2999,2018.12.14",romsize:"1.33GB,新增下拉天气"};
-{romid:"小米Mix2-MIUIV10.0.1.0-稳定版",romurl:"https://pan.baidu.com/s/1QM5X5WEWNmvIaSRHUeYLPA",manosurl:"2289,2018.08.30",romsize:"1.27GB,MIUIV10首个稳定版"}
+{romid:"小米Mix2-MIUIV10-8.12.20",romurl:"https://pan.baidu.com/s/1S3JjWy9oPv8c1cnvd-0yUg",manosurl:"3036,2018.12.21",romsize:"1.31GB,新增抬起唤醒"}
+
 
 
 ]
