@@ -8,7 +8,7 @@
 	"Security": false,
 	"copyco": "打开支付宝扫码领取红包并支付后可联系返现哦",
 	"notice": "开通VIP版本后,拥有专属标识还可开启纯净模式去除集成软件",
-	"home_notice": "祝大家新年快乐新的一年发发发，2019年开发版第一版已更新",
+	"home_notice": "祝大家春节,致意真诚的祝福:身体健康,心想事成,一帆风顺",
 	"hosts": "https://raw.githubusercontent.com/mandfx/Mi-Purify/master/app/src/main/assets/hosts_foreign",
 	"hosts_miui": "https://raw.githubusercontent.com/mandfx/OTA/master/hosts.miui",
 	"manosp_path": "http://www.manosp.com/archives/",
