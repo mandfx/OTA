@@ -8,7 +8,7 @@
 	"Security": false,
 	"copyco": "打开支付宝扫码领取红包并支付后可联系返现哦",
 	"notice": "开通VIP版本后,拥有专属标识还可开启纯净模式去除集成软件",
-	"home_notice": "快速通道被和谐,请使用百度或微云下载ROM,节后版本已更新",
+	"home_notice": "快速通道全部恢复,官网最近被攻击然后被举报,被QQ误报危险,请浏览器输入www.manosp.com打开",
 	"hosts": "https://raw.githubusercontent.com/mandfx/Mi-Purify/master/app/src/main/assets/hosts_foreign",
 	"hosts_miui": "https://raw.githubusercontent.com/mandfx/OTA/master/hosts.miui",
 	"manosp_path": "http://www.manosp.com/archives/",
