@@ -1,7 +1,7 @@
 {
-    "name": "领取",
-    "title": "红包",
-	"alipay": "com.eg.android.AlipayGphone,com.eg.android.AlipayGphone.AlipayLogin",
+    "name": "公告",
+    "title": "建议",
+	"alipay": "http://www.manosp.com/",
     "url": "com.eg.android.AlipayGphone,com.eg.android.AlipayGphone.AlipayLogin",
     "isCopy": false,
 	"isMoney": false,
