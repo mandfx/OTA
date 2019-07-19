@@ -1,20 +1,35 @@
 {
+
+	"polaris": [
+		{ "romid":"小米MIX2S-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5HaVVfJ", "manosurl":"4176,2019.07.19", "romsize":"点击获取详细更新日志和更多下载方式" }
+	],
+	
+	"lavender": [
+		{ "romid":"红米Note7-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5HR5TzW", "manosurl":"4170,2019.07.19", "romsize":"点击获取详细更新日志和更多下载方式" }
+	],
+	
+	"platina": [
+		{ "romid":"小米8青春版-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5S5rbgK", "manosurl":"4174,2019.07.19", "romsize":"点击获取详细更新日志和更多下载方式" }
+	],
+	
 	"vince": [
-		{
-			"romid":"红米5Plus-MIUIV10-9.7.11",
-			"romurl":"https://share.weiyun.com/5SDJsPQ",
-			"manosurl":"4125,2019.07.12",
-			"romsize":"点击获取详细更新日志和更多下载方式"
-		}
+		{ "romid":"红米5Plus-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5EdCuFU", "manosurl":"4166,2019.07.19", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 	
 	"mido": [
-		{
-			"romid":"红米Note4X-MIUIV10-9.7.11",
-			"romurl":"https://share.weiyun.com/51O9dQZ",
-			"manosurl":"4127,2019.07.12",
-			"romsize":"点击获取详细更新日志和更多下载方式"
-		}
+		{ "romid":"红米Note4X-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5sSmjAp", "manosurl":"4164,2019.07.19", "romsize":"点击获取详细更新日志和更多下载方式" }
+	],
+	
+	"raphael": [
+		{ "romid":"红米K20Pro-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5Ei3bjh", "manosurl":"4161,2019.07.18", "romsize":"点击获取详细更新日志和更多下载方式" }
+	],
+	
+	"jason": [
+		{ "romid":"小米Note3-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5CgV97d", "manosurl":"4159,2019.07.18", "romsize":"点击获取详细更新日志和更多下载方式" }
+	],
+
+	"tiffany": [
+		{ "romid":"小米5X-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5NkJsKk", "manosurl":"4157,2019.07.18", "romsize":"点击获取详细更新日志和更多下载方式" }
 	]
 	
 }
