@@ -1,5 +1,21 @@
 {
 
+	"violet": [
+		{ "romid":"红米Note7Pro-MIUIV10-9.7.20", "romurl":"https://share.weiyun.com/5SkSna0", "manosurl":"4188,2019.07.20", "romsize":"点击获取详细更新日志和更多下载方式" }
+	],
+
+	"ursa": [
+		{ "romid":"小米8探索版-MIUIV10-9.7.20", "romurl":"https://share.weiyun.com/50sJvXP", "manosurl":"4178,2019.07.20", "romsize":"点击获取详细更新日志和更多下载方式" }
+	],
+
+	"whyred": [
+		{ "romid":"红米Note5-MIUIV10-9.7.20", "romurl":"https://share.weiyun.com/5a03bFi", "manosurl":"4184,2019.07.20", "romsize":"点击获取详细更新日志和更多下载方式" }
+	],
+
+	"equuleus": [
+		{ "romid":"小米8屏幕指纹版-MIUIV10-9.7.20", "romurl":"https://share.weiyun.com/5UVnvhA", "manosurl":"4182,2019.07.20", "romsize":"点击获取详细更新日志和更多下载方式" }
+	],
+
 	"polaris": [
 		{ "romid":"小米MIX2S-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5HaVVfJ", "manosurl":"4176,2019.07.19", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
