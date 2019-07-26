@@ -33,14 +33,17 @@
 	],
 	
 	"raphael": [
+		{ "romid":"红米K20Pro-MIUIV10-9.7.25", "romurl":"https://share.weiyun.com/5micXyw", "manosurl":"4205,2019.07.25", "romsize":"点击获取详细更新日志和更多下载方式" },
 		{ "romid":"红米K20Pro-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5Ei3bjh", "manosurl":"4161,2019.07.18", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 	
 	"jason": [
+		{ "romid":"小米Note3-MIUIV10-9.7.25", "romurl":"https://share.weiyun.com/5yEMTrt", "manosurl":"4203,2019.07.25", "romsize":"点击获取详细更新日志和更多下载方式" },
 		{ "romid":"小米Note3-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5CgV97d", "manosurl":"4159,2019.07.18", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 
 	"tiffany": [
+		{ "romid":"小米5X-MIUIV10-9.7.25", "romurl":"https://share.weiyun.com/5boLj7g", "manosurl":"4201,2019.07.25", "romsize":"点击获取详细更新日志和更多下载方式" },
 		{ "romid":"小米5X-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5NkJsKk", "manosurl":"4157,2019.07.18", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 	
