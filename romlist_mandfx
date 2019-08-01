@@ -36,6 +36,7 @@
 	],
 	
 	"mido": [
+		{ "romid":"红米Note4X-MIUIV10-9.8.1", "romurl":"https://share.weiyun.com/5UZmHOE", "manosurl":"4306,2019.08.01", "romsize":"点击获取详细更新日志和更多下载方式" },
 		{ "romid":"红米Note4X-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5sSmjAp", "manosurl":"4164,2019.07.19", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 	
@@ -50,8 +51,8 @@
 	],
 
 	"tiffany": [
-		{ "romid":"小米5X-MIUIV10-9.7.25", "romurl":"https://share.weiyun.com/5boLj7g", "manosurl":"4201,2019.07.25", "romsize":"点击获取详细更新日志和更多下载方式" },
-		{ "romid":"小米5X-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5NkJsKk", "manosurl":"4157,2019.07.18", "romsize":"点击获取详细更新日志和更多下载方式" }
+		{ "romid":"小米5X-MIUIV10-9.8.1", "romurl":"https://share.weiyun.com/56K80Rh", "manosurl":"4308,2019.08.01", "romsize":"点击获取详细更新日志和更多下载方式" },
+		{ "romid":"小米5X-MIUIV10-9.7.25", "romurl":"https://share.weiyun.com/5boLj7g", "manosurl":"4201,2019.07.25", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 	
 	"lithium": [
