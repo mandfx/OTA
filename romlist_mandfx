@@ -1,8 +1,8 @@
 {
 
 	"ursa": [
-		{ "romid":"小米8探索版-MIUIV10-9.7.27", "romurl":"https://share.weiyun.com/5oyw44l", "manosurl":"4224,2019.07.27", "romsize":"点击获取详细更新日志和更多下载方式" },
-		{ "romid":"小米8探索版-MIUIV10-9.7.20", "romurl":"https://share.weiyun.com/50sJvXP", "manosurl":"4178,2019.07.20", "romsize":"点击获取详细更新日志和更多下载方式" }
+		{ "romid":"小米8探索版-MIUIV10-9.8.3", "romurl":"https://share.weiyun.com/51TXh9A", "manosurl":"4328,2019.08.03", "romsize":"点击获取详细更新日志和更多下载方式" },
+		{ "romid":"小米8探索版-MIUIV10-9.7.27", "romurl":"https://share.weiyun.com/5oyw44l", "manosurl":"4224,2019.07.27", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 
 	"whyred": [
@@ -11,13 +11,13 @@
 	],
 
 	"equuleus": [
-		{ "romid":"小米8屏幕指纹版-MIUIV10-9.7.27", "romurl":"https://share.weiyun.com/5BOb0bJ", "manosurl":"4226,2019.07.27", "romsize":"点击获取详细更新日志和更多下载方式" },
-		{ "romid":"小米8屏幕指纹版-MIUIV10-9.7.20", "romurl":"https://share.weiyun.com/5UVnvhA", "manosurl":"4182,2019.07.20", "romsize":"点击获取详细更新日志和更多下载方式" }
+		{ "romid":"小米8屏幕指纹版-MIUIV10-9.8.3", "romurl":"https://share.weiyun.com/532i75b", "manosurl":"4332,2019.08.03", "romsize":"点击获取详细更新日志和更多下载方式" },
+		{ "romid":"小米8屏幕指纹版-MIUIV10-9.7.27", "romurl":"https://share.weiyun.com/5BOb0bJ", "manosurl":"4226,2019.07.27", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 
 	"polaris": [
-		{ "romid":"小米MIX2S-MIUIV10-9.7.25", "romurl":"https://share.weiyun.com/5EyuEVJ", "manosurl":"4217,2019.07.26", "romsize":"点击获取详细更新日志和更多下载方式" },
-		{ "romid":"小米MIX2S-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5HaVVfJ", "manosurl":"4176,2019.07.19", "romsize":"点击获取详细更新日志和更多下载方式" }
+		{ "romid":"小米MIX2S-MIUIV10-9.8.3", "romurl":"https://share.weiyun.com/5lC7edN", "manosurl":"4330,2019.08.03", "romsize":"点击获取详细更新日志和更多下载方式" },
+		{ "romid":"小米MIX2S-MIUIV10-9.7.25", "romurl":"https://share.weiyun.com/5EyuEVJ", "manosurl":"4217,2019.07.26", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 	
 	"lavender": [
@@ -41,8 +41,8 @@
 	],
 	
 	"raphael": [
-		{ "romid":"红米K20Pro-MIUIV10-9.7.25", "romurl":"https://share.weiyun.com/5micXyw", "manosurl":"4205,2019.07.25", "romsize":"点击获取详细更新日志和更多下载方式" },
-		{ "romid":"红米K20Pro-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5Ei3bjh", "manosurl":"4161,2019.07.18", "romsize":"点击获取详细更新日志和更多下载方式" }
+		{ "romid":"红米K20Pro-MIUIV10-9.8.3", "romurl":"https://share.weiyun.com/5N3rKpV", "manosurl":"4326,2019.08.03", "romsize":"点击获取详细更新日志和更多下载方式" },
+		{ "romid":"红米K20Pro-MIUIV10-9.7.25", "romurl":"https://share.weiyun.com/5micXyw", "manosurl":"4205,2019.07.25", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 	
 	"jason": [
