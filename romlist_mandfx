@@ -56,6 +56,7 @@
 	],
 	
 	"lithium": [
+		{ "romid":"小米MIX-MIUIV10-9.8.4", "romurl":"https://share.weiyun.com/5wwD3Er", "manosurl":"4338,2019.08.04", "romsize":"点击获取详细更新日志和更多下载方式" },
 		{ "romid":"小米MIX-MIUIV10-9.7.21", "romurl":"https://share.weiyun.com/5TfHczW", "manosurl":"4192,2019.07.21", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 	
