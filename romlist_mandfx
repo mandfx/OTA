@@ -46,13 +46,13 @@
 	],
 	
 	"jason": [
-		{ "romid":"小米Note3-MIUIV10-9.8.1", "romurl":"https://share.weiyun.com/5rwQkWu", "manosurl":"4310,2019.08.02", "romsize":"点击获取详细更新日志和更多下载方式" },
-		{ "romid":"小米Note3-MIUIV10-9.7.25", "romurl":"https://share.weiyun.com/5yEMTrt", "manosurl":"4203,2019.07.25", "romsize":"点击获取详细更新日志和更多下载方式" }
+		{ "romid":"小米Note3-MIUIV10-9.8.8", "romurl":"https://share.weiyun.com/5v4Rl6h", "manosurl":"4348,2019.08.08", "romsize":"点击获取详细更新日志和更多下载方式" },
+		{ "romid":"小米Note3-MIUIV10-9.8.1", "romurl":"https://share.weiyun.com/5rwQkWu", "manosurl":"4310,2019.08.02", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 
 	"tiffany": [
-		{ "romid":"小米5X-MIUIV10-9.8.1", "romurl":"https://share.weiyun.com/56K80Rh", "manosurl":"4308,2019.08.01", "romsize":"点击获取详细更新日志和更多下载方式" },
-		{ "romid":"小米5X-MIUIV10-9.7.25", "romurl":"https://share.weiyun.com/5boLj7g", "manosurl":"4201,2019.07.25", "romsize":"点击获取详细更新日志和更多下载方式" }
+		{ "romid":"小米5X-MIUIV10-9.8.8", "romurl":"https://share.weiyun.com/5ZhLpPu", "manosurl":"4346,2019.08.08", "romsize":"点击获取详细更新日志和更多下载方式" },
+		{ "romid":"小米5X-MIUIV10-9.8.1", "romurl":"https://share.weiyun.com/56K80Rh", "manosurl":"4308,2019.08.01", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 	
 	"lithium": [
@@ -61,8 +61,8 @@
 	],
 	
 	"violet": [
-		{ "romid":"红米Note7Pro-MIUIV10-9.7.27", "romurl":"https://share.weiyun.com/5fDocN1", "manosurl":"4221,2019.07.27", "romsize":"点击获取详细更新日志和更多下载方式" },
-		{ "romid":"红米Note7Pro-MIUIV10-9.7.20", "romurl":"https://share.weiyun.com/5SkSna0", "manosurl":"4188,2019.07.20", "romsize":"点击获取详细更新日志和更多下载方式" }
+		{ "romid":"红米Note7Pro-MIUIV10-9.8.8", "romurl":"https://share.weiyun.com/5eJT8Wm", "manosurl":"4344,2019.08.08", "romsize":"点击获取详细更新日志和更多下载方式" },
+		{ "romid":"红米Note7Pro-MIUIV10-9.7.27", "romurl":"https://share.weiyun.com/5fDocN1", "manosurl":"4221,2019.07.27", "romsize":"点击获取详细更新日志和更多下载方式" }
 	]
 	
 }
