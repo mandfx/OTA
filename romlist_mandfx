@@ -31,18 +31,18 @@
 	],
 	
 	"vince": [
-		{ "romid":"红米5Plus-MIUIV10-9.8.1", "romurl":"https://share.weiyun.com/5FhNPMH", "manosurl":"4312,2019.08.02", "romsize":"点击获取详细更新日志和更多下载方式" },
-		{ "romid":"红米5Plus-MIUIV10-9.7.25", "romurl":"https://share.weiyun.com/5vjMFHq", "manosurl":"4207,2019.07.26", "romsize":"点击获取详细更新日志和更多下载方式" }
+		{ "romid":"红米5Plus-MIUIV10-9.8.10", "romurl":"https://pan.baidu.com/s/1F1RLvHSbdaNu9r7VhnYYUA", "manosurl":"4374,2019.08.10", "romsize":"点击获取详细更新日志和更多下载方式" },
+		{ "romid":"红米5Plus-MIUIV10-9.8.1", "romurl":"https://share.weiyun.com/5FhNPMH", "manosurl":"4312,2019.08.02", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 	
 	"mido": [
-		{ "romid":"红米Note4X-MIUIV10-9.8.1", "romurl":"https://share.weiyun.com/5UZmHOE", "manosurl":"4306,2019.08.01", "romsize":"点击获取详细更新日志和更多下载方式" },
-		{ "romid":"红米Note4X-MIUIV10-9.7.18", "romurl":"https://share.weiyun.com/5sSmjAp", "manosurl":"4164,2019.07.19", "romsize":"点击获取详细更新日志和更多下载方式" }
+		{ "romid":"红米Note4X-MIUIV10-9.8.10", "romurl":"https://pan.baidu.com/s/1wY18nucWfBMYFw_eu9-bXw", "manosurl":"4372,2019.08.10", "romsize":"点击获取详细更新日志和更多下载方式" },
+		{ "romid":"红米Note4X-MIUIV10-9.8.1", "romurl":"https://share.weiyun.com/5UZmHOE", "manosurl":"4306,2019.08.01", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 	
 	"raphael": [
-		{ "romid":"红米K20Pro-MIUIV10-9.8.3", "romurl":"https://share.weiyun.com/5N3rKpV", "manosurl":"4326,2019.08.03", "romsize":"点击获取详细更新日志和更多下载方式" },
-		{ "romid":"红米K20Pro-MIUIV10-9.7.25", "romurl":"https://share.weiyun.com/5micXyw", "manosurl":"4205,2019.07.25", "romsize":"点击获取详细更新日志和更多下载方式" }
+		{ "romid":"红米K20Pro-MIUIV10-9.8.10", "romurl":"https://pan.baidu.com/s/1DNx4pSir_D1XQNuKZgaILQ", "manosurl":"4376,2019.08.10", "romsize":"点击获取详细更新日志和更多下载方式" },
+		{ "romid":"红米K20Pro-MIUIV10-9.8.3", "romurl":"https://share.weiyun.com/5N3rKpV", "manosurl":"4326,2019.08.03", "romsize":"点击获取详细更新日志和更多下载方式" }
 	],
 	
 	"jason": [
