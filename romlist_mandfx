@@ -4,8 +4,8 @@
 
 
 "ursa": [
-	{ "romid":"小米8探索版-MIUIV10-9.8.17", "romurl":"https://pan.baidu.com/s/12XlVqEIiMAq4OLi1Dqepqw", "manosurl":"4413,2019.08.17", "romsize":"点击获取详细更新日志和更多下载方式" },
-	{ "romid":"小米8探索版-MIUIV10-9.8.8", "romurl":"https://pan.baidu.com/s/1RZtChFHHjUPkQ28LhVPckQ", "manosurl":"4362,2019.08.09", "romsize":"点击获取详细更新日志和更多下载方式" }
+	{ "romid":"小米8探索版-MIUIV10-9.8.24", "romurl":"https://pan.baidu.com/s/1-oEZNRq_d3ZFnsIqiXIP_w", "manosurl":"4459,2019.08.24", "romsize":"点击获取详细更新日志和更多下载方式" },
+	{ "romid":"小米8探索版-MIUIV10-9.8.17", "romurl":"https://pan.baidu.com/s/12XlVqEIiMAq4OLi1Dqepqw", "manosurl":"4413,2019.08.17", "romsize":"点击获取详细更新日志和更多下载方式" }
 ],
 
 "whyred": [
@@ -14,8 +14,8 @@
 ],
 
 "equuleus": [
-	{ "romid":"小米8屏幕指纹版-MIUIV10-9.8.17", "romurl":"https://pan.baidu.com/s/1fZ6yRZD9nSP0Yn6opwVeMQ", "manosurl":"4415,2019.08.17", "romsize":"点击获取详细更新日志和更多下载方式" },
-	{ "romid":"小米8屏幕指纹版-MIUIV10-9.8.8", "romurl":"https://pan.baidu.com/s/1s8XxJ0WTLVKdnTe0y96MXA", "manosurl":"4366,2019.08.09", "romsize":"点击获取详细更新日志和更多下载方式" }
+	{ "romid":"小米8屏幕指纹版-MIUIV10-9.8.24", "romurl":"https://pan.baidu.com/s/1kqcDw7tVE-CkvOzXNCiwSg", "manosurl":"4461,2019.08.24", "romsize":"点击获取详细更新日志和更多下载方式" },
+	{ "romid":"小米8屏幕指纹版-MIUIV10-9.8.17", "romurl":"https://pan.baidu.com/s/1fZ6yRZD9nSP0Yn6opwVeMQ", "manosurl":"4415,2019.08.17", "romsize":"点击获取详细更新日志和更多下载方式" }
 ],
 
 "polaris": [
@@ -34,13 +34,8 @@
 ],
 	
 "vince": [
-	{ "romid":"红米5Plus-MIUIV10-9.8.15", "romurl":"https://pan.baidu.com/s/1UwvdHhm-4rjHufWTczmDSA", "manosurl":"4399,2019.08.16", "romsize":"点击获取详细更新日志和更多下载方式" },
-	{ "romid":"红米5Plus-MIUIV10-9.8.10", "romurl":"https://pan.baidu.com/s/1F1RLvHSbdaNu9r7VhnYYUA", "manosurl":"4374,2019.08.10", "romsize":"点击获取详细更新日志和更多下载方式" }
-],
-	
-"mido": [
-	{ "romid":"红米Note4X-MIUIV10-9.8.10", "romurl":"https://pan.baidu.com/s/1wY18nucWfBMYFw_eu9-bXw", "manosurl":"4372,2019.08.10", "romsize":"点击获取详细更新日志和更多下载方式" },
-	{ "romid":"红米Note4X-MIUIV10-9.8.1", "romurl":"https://share.weiyun.com/5UZmHOE", "manosurl":"4306,2019.08.01", "romsize":"点击获取详细更新日志和更多下载方式" }
+	{ "romid":"红米5Plus-MIUIV10-9.8.24", "romurl":"https://pan.baidu.com/s/1byM5duHYhYaZfditDmzUJg", "manosurl":"4457,2019.08.24", "romsize":"点击获取详细更新日志和更多下载方式" },
+	{ "romid":"红米5Plus-MIUIV10-9.8.15", "romurl":"https://pan.baidu.com/s/1UwvdHhm-4rjHufWTczmDSA", "manosurl":"4399,2019.08.16", "romsize":"点击获取详细更新日志和更多下载方式" }
 ],
 	
 "raphael": [
@@ -59,13 +54,19 @@
 ],
 	
 "lithium": [
-	{ "romid":"小米MIX-MIUIV10-9.8.18", "romurl":"https://pan.baidu.com/s/1oI6pQ1WOSYeftaFYo0FqGQ", "manosurl":"4424,2019.08.18", "romsize":"点击获取详细更新日志和更多下载方式" },
-	{ "romid":"小米MIX-MIUIV10-9.8.4", "romurl":"https://share.weiyun.com/5wwD3Er", "manosurl":"4338,2019.08.04", "romsize":"点击获取详细更新日志和更多下载方式" }
+	{ "romid":"小米MIX-MIUIV10-9.8.18", "romurl":"https://pan.baidu.com/s/1oI6pQ1WOSYeftaFYo0FqGQ", "manosurl":"4424,2019.08.18", "romsize":"点击获取详细更新日志和更多下载方式" }
+],
+
+"mido": [
+	{ "romid":"红米Note4X-MIUIV10-9.8.10", "romurl":"https://pan.baidu.com/s/1wY18nucWfBMYFw_eu9-bXw", "manosurl":"4372,2019.08.10", "romsize":"点击获取详细更新日志和更多下载方式" }
+],
+
+"perseus": [
+	{ "romid":"小米MIX3-MIUIV10-9.8.24", "romurl":"https://pan.baidu.com/s/1s0qwYWGlGzRfan4j3aMkjA", "manosurl":"4463,2019.08.24", "romsize":"点击获取详细更新日志和更多下载方式" }
 ],
 	
 "violet": [
-	{ "romid":"红米Note7Pro-MIUIV10-9.8.18", "romurl":"https://pan.baidu.com/s/1_A2DHHbB_yuK7-IvfnCzfA", "manosurl":"4426,2019.08.18", "romsize":"点击获取详细更新日志和更多下载方式" },
-	{ "romid":"红米Note7Pro-MIUIV10-9.8.8", "romurl":"https://share.weiyun.com/5eJT8Wm", "manosurl":"4344,2019.08.08", "romsize":"点击获取详细更新日志和更多下载方式" }
+	{ "romid":"红米Note7Pro-MIUIV10-9.8.18", "romurl":"https://pan.baidu.com/s/1_A2DHHbB_yuK7-IvfnCzfA", "manosurl":"4426,2019.08.18", "romsize":"点击获取详细更新日志和更多下载方式" }
 ]
 
 
