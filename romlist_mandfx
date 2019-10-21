@@ -4,43 +4,43 @@
 
 
 "ursa": [
-	{ "romid":"小米8探索版-MIUIV11-9.9.30", "romurl":"https://pan.baidu.com/s/1MJnr_VDJSGs0eH7QR4zvGA", "manosurl":"4739,2019.09.30", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
+	{ "romid":"小米8探索版-MIUIV11-9.10.18", "romurl":"https://share.weiyun.com/5qoS29U", "manosurl":"5026,2019.10.18", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
 ],
 
 "whyred": [
-	{ "romid":"红米Note5-MIUIV11-9.10.11", "romurl":"https://pan.baidu.com/s/1AnVtfCm_H2n17wcWAwz9Bg", "manosurl":"4775,2019.10.11", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
+	{ "romid":"红米Note5-MIUIV11-9.10.20", "romurl":"https://share.weiyun.com/5a5IAtk", "manosurl":"5040,2019.10.20", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
 ],
 
 "equuleus": [
-	{ "romid":"小米8屏幕指纹版-MIUIV11-9.9.30","romurl":"https://pan.baidu.com/s/14IPznXBR_ve5Izew58xxjQ","manosurl":"4741,2019.09.30","romsize":"别具匠心的全新OS，MIUIV11更新来了"}
+	{ "romid":"小米8屏幕指纹版-MIUIV11-9.10.18","romurl":"https://share.weiyun.com/5XQUGId","manosurl":"5028,2019.10.18","romsize":"别具匠心的全新OS，MIUIV11更新来了"}
 ],
 
 "polaris": [
-	{ "romid":"小米MIX2S-MIUIV11-9.9.29", "romurl":"https://pan.baidu.com/s/1UhlCPRIqzVpoepqMRlqrDw", "manosurl":"4727,2019.09.29", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
+	{ "romid":"小米MIX2S-MIUIV11-9.10.18", "romurl":"https://share.weiyun.com/577smcr", "manosurl":"5030,2019.10.18", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
 ],
 	
 "lavender": [
-	{ "romid":"红米Note7-MIUIV11-9.10.13", "romurl":"https://pan.baidu.com/s/13vQdcVVtqZGuCB9SWynHHQ", "manosurl":"4792,2019.10.13", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
+	{ "romid":"红米Note7-MIUIV11-9.10.20", "romurl":"https://share.weiyun.com/5LAjpRs", "manosurl":"5034,2019.10.20", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
 ],
 	
 "platina": [
-	{ "romid":"小米8青春版-MIUIV11-9.9.30", "romurl":"https://pan.baidu.com/s/1LrOvRNFyVDeCq_xFCzpKQA", "manosurl":"4737,2019.09.30", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
+	{ "romid":"小米8青春版-MIUIV11-9.10.18", "romurl":"https://share.weiyun.com/5tp4Mmg", "manosurl":"5018,2019.10.18", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
 ],
 	
 "raphael": [
-	{ "romid":"红米K20Pro-MIUIV11-9.10.13", "romurl":"https://pan.baidu.com/s/1wtU_50ai7gqlixyfBqUyRw", "manosurl":"4796,2019.10.13", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
+	{ "romid":"红米K20Pro-MIUIV11-9.10.20", "romurl":"https://share.weiyun.com/5fwmEwf", "manosurl":"5049,2019.10.20", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
 ],
 	
 "jason": [
-	{ "romid":"小米Note3-MIUIV11-9.10.9", "romurl":"https://pan.baidu.com/s/1Y-rrZBtSV4B6KlgNH7_h3Q", "manosurl":"4753,2019.10.09", "romsize":"点击获取详细更新日志和更多下载方式" }
+	{ "romid":"小米Note3-MIUIV11-9.10.16", "romurl":"https://pan.baidu.com/s/1kzCQ696Uvrg4u0uEl4PuFw", "manosurl":"5016,2019.10.16", "romsize":"点击获取详细更新日志和更多下载方式" }
 ],
 	
 "vince": [
-	{ "romid":"红米5Plus-MIUIV11-9.10.11", "romurl":"https://pan.baidu.com/s/1LJf1tp7D_o0AFN7Hu3xclw", "manosurl":"4769,2019.10.11", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
+	{ "romid":"红米5Plus-MIUIV11-9.10.18", "romurl":"https://share.weiyun.com/5I8foHO", "manosurl":"5020,2019.10.18", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
 ],
 
 "tiffany": [
-	{ "romid":"小米5X-MIUIV11-9.10.11", "romurl":"https://pan.baidu.com/s/1gXDMYZGjP8zbRkKCe8qCfA", "manosurl":"4772,2019.10.11", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
+	{ "romid":"小米5X-MIUIV11-9.10.18", "romurl":"https://share.weiyun.com/5mIgBL8", "manosurl":"5024,2019.10.18", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
 ],
 	
 "lithium": [
@@ -48,7 +48,7 @@
 ],
 
 "mido": [
-	{ "romid":"红米Note4X-MIUIV11-9.10.9", "romurl":"https://pan.baidu.com/s/15x4KVzYyIdkO1czwiK1_1Q", "manosurl":"4749,2019.10.09", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
+	{ "romid":"红米Note4X-MIUIV11-9.10.18", "romurl":"https://share.weiyun.com/52HEK5b", "manosurl":"5022,2019.10.18", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
 ],
 
 "perseus": [
