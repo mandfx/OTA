@@ -3,32 +3,52 @@
 
 
 
+"cepheus": [
+    { "romid":"小米9-MIUIV11-9.12.13", "romurl":"https://pan.baidu.com/s/1m0ZMmaeicml-uakUJnje5g", "manosurl":"5450,2019.12.13", "romsize":"点击获取详细更新日志和更多下载方式" }
+],
+
+"dipper": [
+    { "romid":"小米8-MIUIV11-9.12.14", "romurl":"https://pan.baidu.com/s/1CvKt8koUtJbUVyezwodkvg", "manosurl":"5474,2019.12.14", "romsize":"点击获取详细更新日志和更多下载方式" }
+],
+
+"chiron": [
+    { "romid":"小米MIX2-MIUIV11-9.12.13", "romurl":"https://pan.baidu.com/s/10YCORQKxK4y8-ZBY4z4cXQ", "manosurl":"5441,2019.12.13", "romsize":"点击获取详细更新日志和更多下载方式" }
+],
+
+"sagit": [
+    { "romid":"小米6-MIUIV11-9.12.13", "romurl":"https://pan.baidu.com/s/1xhde_fVSc1MUVtrO_e4WTQ", "manosurl":"5445,2019.12.13", "romsize":"点击获取详细更新日志和更多下载方式" }
+],
+
 "ursa": [
-	{ "romid":"小米8探索版-MIUIV11-9.12.8", "romurl":"https://pan.baidu.com/s/1Ytg8SKym-2umahSdgA6l2A", "manosurl":"5404,2019.12.08", "romsize":"安卓10.0正式发布,跨版本升级注意双清" }
+    { "romid":"小米8探索版-MIUIV11-9.12.14", "romurl":"https://pan.baidu.com/s/1yDAeIUSd7L1O5ZDXhP2ffQ", "manosurl":"5469,2019.12.14", "romsize":"点击获取详细更新日志和更多下载方式" }
 ],
 
 "equuleus": [
-	{ "romid":"小米8屏幕指纹版-MIUIV11-9.12.8","romurl":"https://pan.baidu.com/s/1TxXyCQDmzgdWXg-M6EbO7g","manosurl":"5407,2019.12.08","romsize":"安卓10.0正式发布,跨版本升级注意双清"}
+    { "romid":"小米8屏幕指纹版-MIUIV11-9.12.8","romurl":"https://pan.baidu.com/s/1TxXyCQDmzgdWXg-M6EbO7g","manosurl":"5407,2019.12.08","romsize":"安卓10.0正式发布,跨版本升级注意双清"}
 ],
 
 "polaris": [
-	{ "romid":"小米MIX2S-MIUIV11-9.12.8", "romurl":"https://pan.baidu.com/s/1EB8z_dlt_hq_Tv1xJbAM8A", "manosurl":"5415,2019.12.08", "romsize":"安卓10.0正式发布,跨版本升级注意双清" }
+    { "romid":"小米MIX2S-MIUIV11-9.12.14", "romurl":"https://pan.baidu.com/s/1lqSNbUcMlTpLdyqO38PqCA", "manosurl":"5471,2019.12.14", "romsize":"点击获取详细更新日志和更多下载方式" }
 ],
 
 "raphael": [
-	{ "romid":"红米K20Pro-MIUIV11-9.12.6", "romurl":"https://pan.baidu.com/s/1LpVQ-gRi3KZGMtZV1mLTDw", "manosurl":"5391,2019.12.06", "romsize":"点击获取详细更新日志和更多下载方式" }
+    { "romid":"红米K20Pro-MIUIV11-9.12.13", "romurl":"https://pan.baidu.com/s/1DU8yX1ZUxxVYBlZHFtzcCw", "manosurl":"5447,2019.12.13", "romsize":"点击获取详细更新日志和更多下载方式" }
 ],
 
 "whyred": [
-	{ "romid":"红米Note5-MIUIV11-9.12.6", "romurl":"https://pan.baidu.com/s/1lZgZ_GpnWRf1hgQ69slVWQ", "manosurl":"5383,2019.12.06", "romsize":"点击获取详细更新日志和更多下载方式" }
+    { "romid":"红米Note5-MIUIV11-9.12.13", "romurl":"https://pan.baidu.com/s/1b5yqMZY_dU4C_O5r3MvGxQ", "manosurl":"5437,2019.12.13", "romsize":"点击获取详细更新日志和更多下载方式" }
 ],
 
 "jason": [
 	{ "romid":"小米Note3-MIUIV11-9.12.7", "romurl":"https://pan.baidu.com/s/1K9BxyOw7ZtPBBKTJ9muVHA", "manosurl":"5395,2019.12.07", "romsize":"点击获取详细更新日志和更多下载方式" }
 ],
 
+"wayne": [
+    { "romid":"小米6X-MIUIV11-9.12.13", "romurl":"https://pan.baidu.com/s/1Ic_nodbZj3jKZvValK9UDQ", "manosurl":"5439,2019.12.13", "romsize":"点击获取详细更新日志和更多下载方式" }
+],
+
 "lavender": [
-	{ "romid":"红米Note7-MIUIV11-9.12.7", "romurl":"https://pan.baidu.com/s/1jvgs5zaEjYKwMkYlbm5YSw", "manosurl":"5397,2019.12.07", "romsize":"点击获取详细更新日志和更多下载方式" }
+    { "romid":"红米Note7-MIUIV11-9.12.14", "romurl":"https://pan.baidu.com/s/1BbGePaBB1kZaAUoaZvp7yQ", "manosurl":"5459,2019.12.14", "romsize":"点击获取详细更新日志和更多下载方式" }
 ],
 	
 "platina": [
@@ -36,19 +56,23 @@
 ],
 
 "perseus": [
-	{ "romid":"小米MIX3-MIUIV11-9.11.16", "romurl":"https://pan.baidu.com/s/1M_iXEb2dKfSmmig4kuOSfw", "manosurl":"5264,2019.11.16", "romsize":"安卓10.0正式发布,跨版本升级注意双清" }
+    { "romid":"小米MIX3-MIUIV11-9.12.14", "romurl":"https://pan.baidu.com/s/1XS0GTsCCybkC1JTMDDfyjQ", "manosurl":"5467,2019.12.14", "romsize":"点击获取详细更新日志和更多下载方式" }
 ],
 
 "violet": [
-	{ "romid":"红米Note7Pro-MIUIV11-9.11.15", "romurl":"https://pan.baidu.com/s/1s3B3Ib3YFa-E-jwCg6vxqQ", "manosurl":"5249,2019.11.15", "romsize":"点击获取详细更新日志和更多下载方式" }
+    { "romid":"红米Note7Pro-MIUIV11-9.12.14", "romurl":"https://pan.baidu.com/s/1sbw0MttfCxJD4pxOX-Y4Fg", "manosurl":"5465,2019.12.14", "romsize":"点击获取详细更新日志和更多下载方式" }
 ],
 
 "sirius": [
-	{ "romid":"小米8SE-MIUIV11-9.12.8","romurl":"https://pan.baidu.com/s/11_Z-qhmPdBmOwcdsrjqEFQ","manosurl":"5413,2019.12.08","romsize":"安卓10.0正式发布,跨版本升级注意双清"}
+    { "romid":"小米8SE-MIUIV11-9.12.14", "romurl":"https://pan.baidu.com/s/1OG21yjJwm3aVQf3efSU_WA", "manosurl":"5455,2019.12.14", "romsize":"点击获取详细更新日志和更多下载方式" }
 ],
 
 "crux": [
 	{ "romid":"小米9Pro-MIUIV11-9.12.7","romurl":"https://pan.baidu.com/s/1YoygqKXD-1xe_Es-qtryJA","manosurl":"5399,2019.12.07","romsize":"点击获取详细更新日志和更多下载方式"}
+],
+
+"nitrogen": [
+    { "romid":"小米Max3-MIUIV11-9.12.14", "romurl":"https://pan.baidu.com/s/17_eNOVB-b2gIogceOGs_7g", "manosurl":"5462,2019.12.14", "romsize":"安卓10.0正式发布,跨版本升级注意双清" }
 ],
 
 "pyxis": [
