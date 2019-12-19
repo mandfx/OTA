@@ -93,11 +93,38 @@
 
 "lithium": [
 	{ "romid":"小米MIX-MIUIV11-9.9.27", "romurl":"https://pan.baidu.com/s/1hQKDhGlrVeeTXfvXiaVOYw", "manosurl":"4703,2019.09.27", "romsize":"别具匠心的全新OS，MIUIV11更新来了" }
-]
+],
 	
 
 
 
+
+
+
+
+
+
+
+
+"manos_config": [{
+	"isCopy": false,
+	"isMoney": false,
+	"Security": false,
+	"manosp_path": "http://www.manosp.com/archives/",
+	"copyco": "打开支付宝扫码领取红包并支付后可联系返现哦",
+	"notice": "开通VIP版本后,拥有专属标识还可开启纯净模式去除集成软件",
+	"home_notice": "由于最近官网被恶意攻击,如果不能访问请加官方交流群(455352243)下载最新ROM使用",
+	"hosts": "https://raw.githubusercontent.com/mandfx/Mi-Purify/master/app/src/main/assets/hosts_foreign",
+	"hosts_miui": "https://raw.githubusercontent.com/mandfx/OTA/master/hosts.miui",
+	"ota_path": "https://raw.githubusercontent.com/mandfx/OTA/manos/romlist_"
+}],
+	
+"manos_data": [
+	{ "id": "公告", "tip": "建议", "name": "ROM更新下载欢迎访问官网,支持极速下载", "title": "请不要升级系统应用,例如主题升级将破解失效", "link": "http://www.manosp.com" },
+	{ "id": "建议", "tip": "公告", "name": "Build.Prop编辑器可以修改机型等操作", "title": "开启Vip版本后,软件冰箱可以任意冻结卸载", "link": "https://wpa.qq.com/msgrd?v=3&uin=295214406&site=qq&menu=yes" },
+	{ "id": "提示", "tip": "注意", "name": "安装Xposed框架请一定仔细阅读提示", "title": "XP框架安装后可能造成应用闪退主题失效", "link": "http://www.manosp.com/archives/101" },
+	{ "id": "^Ｏ^", "tip": "^ｖ^", "name": "感谢大家一路支持,你们的支持是我不断进步的动力", "title": "有任何问题和建议可以通过下方联系方式反馈给我", "link": "https://qr.alipay.com/FKX0044445KDQUGKZTLK30" }
+]
 
 
 }
