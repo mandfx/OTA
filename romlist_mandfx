@@ -111,6 +111,7 @@
 	"isMoney": false,
 	"Security": false,
 	"manosp_path": "http://www.manosp.com/archives/",
+	"build_path": "http://www.manosp.com/archives/25",
 	"copyco": "打开支付宝扫码领取红包并支付后可联系返现哦",
 	"notice": "开通VIP版本后,拥有专属标识还可开启纯净模式去除集成软件",
 	"home_notice": "由于最近官网被恶意攻击,如果不能访问请加官方交流群(455352243)下载最新ROM使用",
