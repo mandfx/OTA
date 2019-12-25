@@ -104,7 +104,10 @@
 
 
 
-
+"manos_update": [{
+	"cepheus": "2019.12.25",
+	"vince": "2019.12.11"
+}],
 
 "manos_config": [{
 	"isCopy": false,
