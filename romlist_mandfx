@@ -116,6 +116,7 @@
 	"isCopy": false,
 	"isMoney": false,
 	"Security": false,
+	"manosp_vip": "14abe8b18702dc9473ffcd8e30ad7e06",
 	"manosp_path": "http://www.manosp.com/archives/",
 	"build_path": "http://www.manosp.com/archives/25",
 	"copyco": "打开支付宝扫码领取红包并支付后可联系返现哦",
