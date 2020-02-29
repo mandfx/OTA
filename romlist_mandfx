@@ -54,7 +54,7 @@
 ],
 
 "perseus": [
-  {"romid":"小米MIX3-MIUIV11-20.1.17", "romurl":"https://pan.baidu.com/s/1ypcQJnWr7BWDZ-X_Py4aIg", "manosurl":"5725,2020.01.17", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米MIX3-MIUIV11-20.2.29", "romurl":"https://share.weiyun.com/5Ev1Jij", "manosurl":"5829,2020.02.29", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "violet": [
@@ -62,11 +62,11 @@
 ],
 
 "sirius": [
-  {"romid":"小米8SE-MIUIV11-20.1.18", "romurl":"https://pan.baidu.com/s/1BoCtva4uRZSp4qO2ReEgWA", "manosurl":"5731,2020.01.18", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米8SE-MIUIV11-20.2.29", "romurl":"https://share.weiyun.com/56mX3gg", "manosurl":"5832,2020.02.29", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "crux": [
-  {"romid":"小米9Pro-MIUIV11-20.2.22", "romurl":"https://share.weiyun.com/5KkvBiH", "manosurl":"5802,2020.02.22", "romsize":"安卓10.0正式发布,跨版本升级注意双清"}
+  {"romid":"小米9Pro-MIUIV11-20.2.29", "romurl":"https://share.weiyun.com/5YUqlWX", "manosurl":"5830,2020.02.29", "romsize":"安卓10.0正式发布,跨版本升级注意双清"}
 ],
 
 "nitrogen": [
@@ -74,7 +74,7 @@
 ],
 
 "pyxis": [
-  {"romid":"小米CC9-MIUIV11-20.1.17", "romurl":"https://pan.baidu.com/s/1TRgRoeAnvUdl0X5vp2AUsg", "manosurl":"5721,2020.01.17", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米CC9-MIUIV11-20.2.29", "romurl":"https://share.weiyun.com/5UIcu6K", "manosurl":"5831,2020.02.29", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "tiffany": [
@@ -107,9 +107,9 @@
 	"jason": "2020.02.27",
 	"ursa": "2020.02.28",
 	"equuleus": "2020.02.28",
-	"sirius": "2020.01.18",
-	"perseus": "2020.01.17",
-	"pyxis": "2020.01.17"
+	"sirius": "2020.02.29",
+	"perseus": "2020.02.29",
+	"pyxis": "2020.02.29"
 }],
 
 "manos_config": [{
