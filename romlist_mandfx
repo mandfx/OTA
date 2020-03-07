@@ -2,79 +2,83 @@
 
 
 "cepheus": [
-  {"romid":"小米9-MIUIV11-20.2.28", "romurl":"https://share.weiyun.com/5L0MokL", "manosurl":"5823,2020.02.28", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米9-MIUIV11-20.3.6", "romurl":"https://share.weiyun.com/5oAKh8w", "manosurl":"5843,2020.03.06", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "dipper": [
-  {"romid":"小米8-MIUIV11-20.2.28", "romurl":"https://share.weiyun.com/5sq1qsU", "manosurl":"5828,2020.02.28", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米8-MIUIV11-20.3.6", "romurl":"https://share.weiyun.com/5uKLN1t", "manosurl":"5847,2020.03.06", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "chiron": [
-  {"romid":"小米MIX2-MIUIV11-20.2.28", "romurl":"https://share.weiyun.com/5jRNd0M", "manosurl":"5819,2020.02.28", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米MIX2-MIUIV11-20.3.6", "romurl":"https://share.weiyun.com/5WN1zEh", "manosurl":"5838,2020.03.06", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "sagit": [
-  {"romid":"小米6-MIUIV11-20.2.28", "romurl":"https://share.weiyun.com/5kP5yrK", "manosurl":"5824,2020.02.28", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米6-MIUIV11-20.3.6", "romurl":"https://share.weiyun.com/51sOeU9", "manosurl":"5842,2020.03.06", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "ursa": [
-  {"romid":"小米8探索版-MIUI11-20.2.28", "romurl":"https://share.weiyun.com/5UVGwLW", "manosurl":"5826,2020.02.28", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米8探索版-MIUIV11-20.3.6", "romurl":"https://share.weiyun.com/5eeCllq", "manosurl":"5845,2020.03.06", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "equuleus": [
-  {"romid":"小米8屏幕指纹-MIUI11-20.2.28", "romurl":"https://share.weiyun.com/57kfD4P", "manosurl":"5825,2020.02.28", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米8屏幕指纹-MIUIV11-20.3.6", "romurl":"https://share.weiyun.com/5ufE0Ku", "manosurl":"5844,2020.03.06", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "polaris": [
-  {"romid":"小米MIX2S-MIUIV11-20.2.28", "romurl":"https://share.weiyun.com/5zduaWc", "manosurl":"5827,2020.02.28", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米MIX2S-MIUIV11-20.3.6", "romurl":"https://share.weiyun.com/5Ca9o6K", "manosurl":"5846,2020.03.06", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "raphael": [
-  {"romid":"红米K20Pro-MIUIV11-20.2.28", "romurl":"https://share.weiyun.com/5hgkc2p", "manosurl":"5822,2020.02.28", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"红米K20Pro-MIUIV11-20.3.6", "romurl":"https://share.weiyun.com/5Jg9Yw4", "manosurl":"5841,2020.03.06", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "whyred": [
-  {"romid":"红米Note5-MIUIV11-20.2.28", "romurl":"https://share.weiyun.com/5LhABKS", "manosurl":"5821,2020.02.28", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"红米Note5-MIUIV11-20.3.6", "romurl":"https://share.weiyun.com/5ROHEAa", "manosurl":"5840,2020.03.06", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "jason": [
-  {"romid":"小米Note3-MIUIV11-20.2.27", "romurl":"https://share.weiyun.com/5d1EDhj", "manosurl":"5818,2020.02.27", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米Note3-MIUIV11-20.3.7", "romurl":"https://share.weiyun.com/5a2IFFZ", "manosurl":"5850,2020.03.07", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "wayne": [
-  {"romid":"小米6X-MIUIV11-20.2.28", "romurl":"https://share.weiyun.com/5WiOnqk", "manosurl":"5820,2020.02.28", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米6X-MIUIV11-20.3.6", "romurl":"https://share.weiyun.com/5Od8TDa", "manosurl":"5839,2020.03.06", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "lavender": [
-  {"romid":"红米Note7-MIUIV11-20.1.18", "romurl":"https://pan.baidu.com/s/1BOs95GajZR-Jv0EfZ8XFfA", "manosurl":"5729,2020.01.18", "romsize":"安卓10.0正式发布,跨版本升级注意双清"}
+  {"romid":"红米Note7-MIUIV11-20.3.7", "romurl":"https://share.weiyun.com/52dnld3", "manosurl":"5852,2020.03.07", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 	
 "platina": [
-  {"romid":"小米8青春版-MIUIV11-20.1.17", "romurl":"https://pan.baidu.com/s/190NS_6Oymr93jEBpO3wymQ", "manosurl":"5713,2020.01.17", "romsize":"安卓10.0正式发布,跨版本升级注意双清"}
+  {"romid":"小米8青春版-MIUIV11-20.3.7", "romurl":"https://share.weiyun.com/5w0ALd7", "manosurl":"5851,2020.03.07", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "perseus": [
-  {"romid":"小米MIX3-MIUIV11-20.2.29", "romurl":"https://share.weiyun.com/5Ev1Jij", "manosurl":"5829,2020.02.29", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米MIX3-MIUIV11-20.3.7", "romurl":"https://share.weiyun.com/5O9ixJj", "manosurl":"5853,2020.03.07", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "violet": [
-    { "romid":"红米Note7Pro-MIUI11-安卓9.0终结版", "romurl":"https://pan.baidu.com/s/1A1oo6tTyGXMSIVHoly4OQQ", "manosurl":"5522,2019.12.22", "romsize":"点击获取详细更新日志和更多下载方式" }
+  {"romid":"红米Note7Pro-MIUI11-20.3.7", "romurl":"https://share.weiyun.com/5C0Guvm", "manosurl":"5855,2020.03.07", "romsize":"安卓10.0正式发布,跨版本升级注意双清"}
 ],
 
 "sirius": [
-  {"romid":"小米8SE-MIUIV11-20.2.29", "romurl":"https://share.weiyun.com/56mX3gg", "manosurl":"5832,2020.02.29", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米8SE-MIUIV11-20.3.7", "romurl":"https://share.weiyun.com/5VH4e83", "manosurl":"5849,2020.03.07", "romsize":"点击获取详细更新日志和更多下载方式"}
+],
+
+"pyxis": [
+  {"romid":"小米CC9-MIUIV11-20.3.7", "romurl":"https://share.weiyun.com/5qsMj1k", "manosurl":"5848,2020.03.07", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "crux": [
   {"romid":"小米9Pro-MIUIV11-20.2.29", "romurl":"https://share.weiyun.com/5YUqlWX", "manosurl":"5830,2020.02.29", "romsize":"安卓10.0正式发布,跨版本升级注意双清"}
 ],
 
-"nitrogen": [
-  {"romid":"小米Max3-MIUIV11-20.2.27", "romurl":"https://share.weiyun.com/5Wk8fjr", "manosurl":"5817,2020.02.27", "romsize":"点击获取详细更新日志和更多下载方式"}
+"tucana": [
+  {"romid":"小米CC9Pro-MIUIV11-20.3.7", "romurl":"https://share.weiyun.com/5Pmf1wb", "manosurl":"5854,2020.03.07", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
-"pyxis": [
-  {"romid":"小米CC9-MIUIV11-20.2.29", "romurl":"https://share.weiyun.com/5UIcu6K", "manosurl":"5831,2020.02.29", "romsize":"点击获取详细更新日志和更多下载方式"}
+"nitrogen": [
+  {"romid":"小米Max3-MIUIV11-20.2.27", "romurl":"https://share.weiyun.com/5Wk8fjr", "manosurl":"5817,2020.02.27", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "tiffany": [
@@ -96,20 +100,21 @@
 
 
 "manos_update": [{
-	"cepheus": "2020.02.28",
-	"raphael": "2020.02.28",
-	"dipper": "2020.02.28",
-	"polaris": "2020.02.28",
-	"sagit": "2020.02.28",
-	"chiron": "2020.02.28",
-	"wayne": "2020.02.28",
-	"whyred": "2020.02.28",
-	"jason": "2020.02.27",
-	"ursa": "2020.02.28",
-	"equuleus": "2020.02.28",
-	"sirius": "2020.02.29",
-	"perseus": "2020.02.29",
-	"pyxis": "2020.02.29"
+	"cepheus": "2020.03.06",
+	"raphael": "2020.03.06",
+	"dipper": "2020.03.06",
+	"polaris": "2020.03.06", "MIX2S": "1",
+	"sagit": "2020.03.06",
+	"chiron": "2020.03.06",
+	"wayne": "2020.03.06",
+	"whyred": "2020.03.06",	"Note5": "1",
+	"jason": "2020.03.07",
+	"ursa": "2020.03.06",
+	"equuleus": "2020.03.06",
+	"sirius": "2020.03.07", "8SE": "1",
+	"tucana": "2020.03.07", "CC9Pro": "1",
+	"perseus": "2020.03.07", "MIX3": "1",
+	"pyxis": "2020.03.07", "CC9": "1"
 }],
 
 "manos_config": [{
@@ -121,7 +126,7 @@
 	"build_path": "http://www.manosp.com/archives/25",
 	"copyco": "打开支付宝扫码领取红包并支付后可联系返现哦",
 	"notice": "开通VIP版本后,拥有专属标识还可开启纯净模式去除集成软件",
-	"home_notice": "欢迎大家访问官网manosp.com或加官方交流群(455352243)下载最新ROM使用",
+	"home_notice": "最新开发版全机型更新完毕,支持桌面图标及多种布局调节",
 	"hosts": "https://raw.githubusercontent.com/mandfx/Mi-Purify/master/app/src/main/assets/hosts_foreign",
 	"hosts_miui": "https://raw.githubusercontent.com/mandfx/OTA/master/hosts.miui",
 	"ota_path": "https://raw.githubusercontent.com/mandfx/OTA/manos/romlist_"
