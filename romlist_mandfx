@@ -2,67 +2,67 @@
 
 
 "cepheus": [
-  {"romid":"小米9-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/5QP9VDl", "manosurl":"6035,2020.05.09", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米9-MIUI12-20.5.22", "romurl":"https://share.weiyun.com/kd57ENYx", "manosurl":"6110,2020.05.22", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "dipper": [
-  {"romid":"小米8-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/5MswAwx", "manosurl":"6033,2020.05.09", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米8-MIUI12-20.5.22", "romurl":"https://share.weiyun.com/c5WFZLq6", "manosurl":"6108,2020.05.22", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "chiron": [
-  {"romid":"小米MIX2-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/5VXPdqF", "manosurl":"6040,2020.05.09", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米MIX2-MIUI12-20.5.23", "romurl":"https://share.weiyun.com/OZOGoIF9", "manosurl":"6114,2020.05.23", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "sagit": [
-  {"romid":"小米6-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/5uRZP0s", "manosurl":"6031,2020.05.09", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米6-MIUI12-20.5.22", "romurl":"https://share.weiyun.com/Z9aAO5TT", "manosurl":"6106,2020.05.22", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "ursa": [
-  {"romid":"小米8探索版-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/5I85e7C", "manosurl":"6045,2020.05.10", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米8探索版-MIUI12-20.5.23", "romurl":"https://share.weiyun.com/fPLYF4g5", "manosurl":"6120,2020.05.23", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "equuleus": [
-  {"romid":"小米8屏幕指纹-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/580CqDi", "manosurl":"6047,2020.05.10", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米8屏幕指纹-MIUI12-20.5.23", "romurl":"https://share.weiyun.com/ZhBI5UK3", "manosurl":"6122,2020.05.23", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "polaris": [
-  {"romid":"小米MIX2S-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/5IbMSL9", "manosurl":"6032,2020.05.09", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米MIX2S-MIUI12-20.5.22", "romurl":"https://share.weiyun.com/68lmNFd3", "manosurl":"6104,2020.05.22", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "raphael": [
-  {"romid":"红米K20Pro-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/5UgZXgS", "manosurl":"6034,2020.05.09", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"红米K20Pro-MIUI12-20.5.22", "romurl":"https://share.weiyun.com/zS2kyDaf", "manosurl":"6105,2020.05.22", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "whyred": [
-  {"romid":"红米Note5-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/5oZA0Iv", "manosurl":"6029,2020.05.09", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"红米Note5-MIUI12-20.5.22", "romurl":"https://share.weiyun.com/s1Ki1ccj", "manosurl":"6103,2020.05.22", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "jason": [
-  {"romid":"小米Note3-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/5Sd9uKj", "manosurl":"6036,2020.05.09", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米Note3-MIUI12-20.5.23", "romurl":"https://share.weiyun.com/xwpUf7Ey", "manosurl":"6116,2020.05.23", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "wayne": [
-  {"romid":"小米6X-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/5rLg3nV", "manosurl":"6028,2020.05.09", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米6X-MIUI12-20.5.22", "romurl":"https://share.weiyun.com/OKnHMvvK", "manosurl":"6101,2020.05.22", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "lavender": [
-  {"romid":"红米Note7-MIUIV11-20.4.11", "romurl":"https://share.weiyun.com/577UjZ6", "manosurl":"5981,2020.04.11", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"红米Note7-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/1dSuq0Ca", "manosurl":"6121,2020.05.23", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 	
 "platina": [
-  {"romid":"小米8青春版-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/54SxaBo", "manosurl":"6043,2020.05.10", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米8青春版-MIUI12-20.5.23", "romurl":"https://share.weiyun.com/mn51nmCe", "manosurl":"6118,2020.05.23", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "perseus": [
-  {"romid":"小米MIX3-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/5d3Q1Oy", "manosurl":"6044,2020.05.10", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米MIX3-MIUI12-20.5.23", "romurl":"https://share.weiyun.com/l2XgkyAB", "manosurl":"6117,2020.05.23", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "violet": [
-  {"romid":"红米Note7Pro-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/5JnEYla", "manosurl":"6046,2020.05.10", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"红米Note7Pro-MIUI12-20.5.23", "romurl":"https://share.weiyun.com/kH0emYJP", "manosurl":"6119,2020.05.23", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "sirius": [
-  {"romid":"小米8SE-MIUIV12正式版更新", "romurl":"https://share.weiyun.com/5ZwKmfT", "manosurl":"6041,2020.05.10", "romsize":"点击获取详细更新日志和更多下载方式"}
+  {"romid":"小米8SE-MIUI12-20.5.23", "romurl":"https://share.weiyun.com/FA2jbV0K", "manosurl":"6115,2020.05.23", "romsize":"点击获取详细更新日志和更多下载方式"}
 ],
 
 "pyxis": [
@@ -100,27 +100,27 @@
 
 
 "manos_update": [{
-	"umi": "2020.05.09",
-	"cmi": "2020.05.09",
-	"lmi": "2020.05.09",
-	"cepheus": "2020.05.09",
-	"raphael": "2020.05.09",
-	"dipper": "2020.05.09",
-	"polaris": "2020.05.09", "MIX2S": "1",
-	"sagit": "2020.05.09",
-	"chiron": "2020.05.09",
-	"wayne": "2020.05.09",
-	"whyred": "2020.05.09",	"Note5": "1",
-	"jason": "2020.05.09",
-	"ursa": "2020.05.10",
-	"violet": "2020.05.10", "Note7Pro": "1",
+	"umi": "2020.05.22",
+	"cmi": "2020.05.22",
+	"lmi": "2020.05.23",
+	"cepheus": "2020.05.22",
+	"raphael": "2020.05.22",
+	"dipper": "2020.05.22",
+	"polaris": "2020.05.22", "MIX2S": "1",
+	"sagit": "2020.05.22",
+	"chiron": "2020.05.23",
+	"wayne": "2020.05.22",
+	"whyred": "2020.05.22",	"Note5": "1",
+	"jason": "2020.05.23",
+	"ursa": "2020.05.23",
+	"violet": "2020.05.23", "Note7Pro": "1",
 	"crux": "2020.05.10", "9Pro": "1",
-	"equuleus": "2020.05.10",
-	"platina": "2020.05.10", "8Lite": "1",
-	"sirius": "2020.05.10", "8SE": "1",
+	"equuleus": "2020.05.23",
+	"platina": "2020.05.23", "8Lite": "1",
+	"sirius": "2020.05.23", "8SE": "1",
 	"tucana": "2020.05.09", "CC9Pro": "1",
-	"perseus": "2020.05.10", "MIX3": "1",
-	"lavender": "2020.04.11", "Note7": "1",
+	"perseus": "2020.05.23", "MIX3": "1",
+	"lavender": "2020.05.23", "Note7": "1",
 	"pyxis": "2020.05.10", "CC9": "1"
 }],
 
