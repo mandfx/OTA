@@ -133,7 +133,7 @@
 	"build_path": "http://www.manosp.com/archives/25",
 	"copyco": "打开支付宝扫码领取红包并支付后可联系返现哦",
 	"notice": "开通VIP版本后,拥有专属标识还可开启纯净模式去除集成软件",
-	"home_notice": "MIUI12新版更新,部分机型支持跨屏协作以及新增通知栏网络统计开关",
+	"home_notice": "MIUI12.5更新来袭,隐私保护升级,全新动画以及音效更流畅",
 	"hosts": "https://raw.githubusercontent.com/mandfx/Mi-Purify/master/app/src/main/assets/hosts_foreign",
 	"hosts_miui": "https://raw.githubusercontent.com/mandfx/OTA/master/hosts.miui",
 	"ota_path": "https://raw.githubusercontent.com/mandfx/OTA/manos/romlist_"
