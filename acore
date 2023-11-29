@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+
+install_package() {
+    if command -v yum &> /dev/null; then
+        yum "$@"
+		echo "------yum $@"
+    elif command -v dnf &> /dev/null; then
+        dnf "$@"
+		echo "------dnf $@"
+    elif command -v apt-get &> /dev/null; then
+        apt-get "$@"
+		echo "------apt $@"
+    elif command -v rpm &> /dev/null; then
+        rpm "$@"
+		echo "------rpm $@"
+    elif command -v pacman &> /dev/null; then
+        dpkg "$@"
+		echo "------dpkg $@"
+    else
+        echo "Error Not Found Package Manage"
+        exit 1
+    fi
+}
+
+start_service() {
+    if command -v systemctl &> /dev/null; then
+        systemctl $2 $1
+		echo "------systemctl $2 $1"
+    elif command -v service &> /dev/null; then
+        service $1 $2
+		echo "------service $1 $2"
+    else
+        echo "Error Not Found Service Manage"
+        exit 1
+    fi
+}
+
+if [ "$1" == "pkg" ]; then
+	shift
+	install_package "$@"
+elif [ "$1" == "svc" ]; then
+	shift
+	start_service "$@"
+else
+    echo "Usage: $0 [package|service]"
+fi
