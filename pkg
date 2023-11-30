@@ -1,0 +1,56 @@
+#!/usr/bin/env bash
+
+APPNAME=$(basename $0 | sed "s/\.sh$//")
+
+# -----------------------------------------------------------------------------
+# Log functions
+# -----------------------------------------------------------------------------
+fn_log_info()  { echo "$APPNAME: $1"; }
+fn_log_warn()  { echo "$APPNAME: [WARNING] $1" 1>&2; }
+fn_log_error() { echo "$APPNAME: [ERROR] $1" 1>&2; }
+
+call_package() {
+    if command -v yum &> /dev/null; then
+        yum "$@"
+        fn_log_info "------yum $@"
+    elif command -v dnf &> /dev/null; then
+        dnf "$@"
+        fn_log_info "------dnf $@"
+    elif command -v apt-get &> /dev/null; then
+        apt-get "$@"
+        fn_log_info "------apt $@"
+    elif command -v rpm &> /dev/null; then
+        rpm "$@"
+        fn_log_info "------rpm $@"
+    elif command -v pacman &> /dev/null; then
+        dpkg "$@"
+        fn_log_info "------dpkg $@"
+    else
+        fn_log_error "Error Not Found Package Manage"
+        exit 1
+    fi
+}
+
+call_service() {
+	if command -v service &> /dev/null; then
+        service $1 $2
+        fn_log_info "------service $1 $2"
+	elif command -v systemctl &> /dev/null; then
+	    systemctl $2 $1
+        fn_log_info "------systemctl $2 $1"
+    else
+        fn_log_error "Error Not Found Service Manage"
+        exit 1
+    fi
+}
+
+if [ "$1" == "sys" ]; then
+	shift
+	call_service "$@"
+	exit 0
+elif [ -z "$1" -o "$1" == " " ]; then
+    fn_log_warn "Usage: $0 [package|service]"
+	exit 0
+fi
+
+call_package "$@"
